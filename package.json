@@ -1,0 +1,13 @@
+{
+  "name": "js-math-operations",
+  "version": "1.0.0",
+  "description": "JavaScript library for basic arithmetic operations",
+  "main": "mathOperations.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
