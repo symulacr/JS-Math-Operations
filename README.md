@@ -11,7 +11,7 @@ This repository contains a JavaScript library for performing basic arithmetic op
 - `multiplication(a, b)`: Multiplies `a` by `b`.
 - `division(a, b)`: Divides `a` by `b`. Avoids division by zero.
 
-Example usage:
+### Example usage:
 
 ```javascript
 console.log("Addition: " + addition(5, 3)); // Output: 8
