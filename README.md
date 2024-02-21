@@ -9,7 +9,8 @@ This repository contains a JavaScript library for performing basic arithmetic op
 - `addition(a, b)`: Adds two numbers `a` and `b`.
 - `subtraction(a, b)`: Subtracts `b` from `a`.
 - `multiplication(a, b)`: Multiplies `a` by `b`.
-- `division(a, b)`: Divides `a` by `b`. Avoids division by zero.
+- `division(a, b)`: Divides `a` by `b`. 
+     * Avoids division by zero.
 
 ### Example usage:
 
