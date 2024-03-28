@@ -1,6 +1,6 @@
 # JS Math Operations
 
-This repository contains a JavaScript library for performing basic arithmetic operations. It includes functions for addition, subtraction, multiplication, and division, enabling simple mathematical computations.
+This repository contains a JavaScript library for performing basic arithmetic operations. It includes functions for addition, subtraction, multiplication, and division enabling simple mathematical computations.
 
 ## Usage
 
